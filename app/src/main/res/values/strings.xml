@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Food Matters</string>
+
+    <string-array name="foods">
+        <item>Fish</item>
+        <item>Meat</item>
+        <item>Cabbage</item>
+        <item>Caviar</item>
+    </string-array>
+
+    <string-array name="amounts">
+        <item>1000</item>
+        <item>500</item>
+        <item>500</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="expiry_dates">
+        <item>2020-04-10</item>
+        <item>2020-04-12</item>
+        <item>2020-04-14</item>
+        <item>2020-04-16</item>
+    </string-array>
+
+    <string-array name="food_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
